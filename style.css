@@ -18,3 +18,14 @@ body{
     gap: 16px;
     background-color: var(--color-bg);
 }
+
+button{
+    height: 30px;
+    width: 100px;
+    border-radius: 8%;
+}
+
+
+#botao-trocar-cor{
+  
+}
